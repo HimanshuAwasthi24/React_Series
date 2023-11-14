@@ -7,3 +7,5 @@ Full ReactJs Series with projects
 
 ## Why fiber in place of VirtualDom(Topic to be searched)
 ## reconsiliation(Topic to be searched)
+
+2. Configuring Tailwind with React
